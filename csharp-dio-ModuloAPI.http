@@ -1,4 +1,4 @@
-@csharp_dio_ModuloAPI_HostAddress = http://localhost:5216
+@csharp_dio_ModuloAPI_HostAddress = http://localhost:5055
 
 GET {{csharp_dio_ModuloAPI_HostAddress}}/weatherforecast/
 Accept: application/json
